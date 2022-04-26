@@ -1,1 +1,1 @@
-"BigBrain, a quiz game for Android using React Native" 
+BigBrain, a quiz game for Android using React Native
